@@ -1,0 +1,10 @@
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\bin\Debug\ThucHanh_6_11_MH.exe.config
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\bin\Debug\ThucHanh_6_11_MH.exe
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\bin\Debug\ThucHanh_6_11_MH.pdb
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\Thuchanh18_11_minhhue.csprojAssemblyReference.cache
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\ThucHanh_6_11_MH.Form1.resources
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\ThucHanh_6_11_MH.Properties.Resources.resources
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\Thuchanh18_11_minhhue.csproj.GenerateResource.cache
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\Thuchanh18_11_minhhue.csproj.CoreCompileInputs.cache
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\ThucHanh_6_11_MH.exe
+F:\Thuchanh\C#\VD5_1_Form\Thuchanh18_11_minhhue\obj\Debug\ThucHanh_6_11_MH.pdb
